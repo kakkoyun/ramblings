@@ -19,7 +19,7 @@ theme:
       primary: white
       accent: red
       toggle:
-        icon: material/weather-night
+        icon: material/brightness-7
         name: Switch to dark mode
 
     # Dark mode
@@ -28,7 +28,7 @@ theme:
       primary: black
       accent: amber
       toggle:
-        icon: material/weather-sunny
+        icon: material/brightness-4
         name: Switch to light mode
     features:
         - navigation.indexes
