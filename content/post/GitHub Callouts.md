@@ -1,24 +1,12 @@
 ---
 share: true
 ---
-
-{% note %}
-Note
-{% endnote %}
-
 > **Note**
 > ?
 
 
 > [!NOTE]
 > Contents
-
-
-{% warning %}
-
-Warning
-
-{% endwarning %}
 
 > **Warning**
 > ?
@@ -28,19 +16,11 @@ Warning
 > Contents
 
 
-{% danger %}
-
-Danger
-
-{% enddanger %}
-
-
 > [!DANGER]
 > Contents
 
 > **Danger**
 > ?
-
 
 
 > [!IMPORTANT]
