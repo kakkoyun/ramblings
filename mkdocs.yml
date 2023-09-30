@@ -1,6 +1,6 @@
-site_name: your_site_name # Change this to your site name
-site_description: A cool description of your site
-site_url: https://change_me.io/ # Change this to your site URL
+site_name: ramblings.kakkoyun
+site_description: Ramblings
+site_url: https://kakkoyun.github.io/ramblings 
 
 theme:
     name: 'material'
