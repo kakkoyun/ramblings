@@ -4,8 +4,8 @@ site_url: https://kakkoyun.github.io/ramblings
 
 theme:
     name: 'material'
-    logo: assets/meta/favicons.png
-    favicon: assets/meta/favicons.png
+    logo: assets/meta/favicons-32x32.png
+    favicon: assets/meta/favicons.ico
     custom_dir: overrides
     font:
         text: Ubuntu
