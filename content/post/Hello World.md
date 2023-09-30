@@ -9,5 +9,5 @@ gists:
     isPublic: false
 publish: false
 ---
-
-This is a public note!
+> [!IMPORTANT]
+> This is a public rambling 
